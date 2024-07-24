@@ -51,10 +51,16 @@ header {
 
 header h2 span {
     color: #d6496b;
+
 }
 
 header h2 {
     font-size: 15px;
+    display: flex;
+    align-items: center;
+}
+header h2 img{
+    margin-right: 5px;
 }
 .logo{
     width: 30px;
